@@ -2,7 +2,7 @@
 name = "image-sequence"
 version = "0.1.0"
 description = ""
-authors = ["Tom Sugden <tom@tomsugden.uk>"]
+authors = ["Tom Sugden <tom@tom.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -11,7 +11,6 @@ python = "^3.9"
 pytest = "^5.2"
 pylint = "^2.13.9"
 mypy = "^0.960"
-pydocstyle = "^6.1.1"
 black = "^22.3.0"
 isort = "^5.10.1"
 
